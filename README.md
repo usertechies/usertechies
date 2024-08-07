@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LNtrv5BvtPVuEthXtj7WfhL1jDdZAtSO/view?usp=sharing](https://drive.google.com/file/d/1LNtrv5BvtPVuEthXtj7WfhL1jDdZAtSO/view?usp=sharing)
 
 
-<img src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif" jsaction="" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1000px; height: 160px; margin: 0px; width: 240px;" alt="A.I. Art - Artificial Intelligence Artist Shocks Humans." jsname="kn3ccd">
+<img src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif" jsaction="" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1000px; height: 160px; margin: 0px; width: 900px;" alt="A.I. Art - Artificial Intelligence Artist Shocks Humans." jsname="kn3ccd">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/gobinda-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/gobinda-kumar" height="30" width="40" /></a>
