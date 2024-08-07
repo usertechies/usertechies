@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gobinda</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-  <img src="https://media.licdn.com/dms/image/D4D12AQGUoP0eC-beFQ/article-cover_image-shrink_600_2000/0/1676389239539?e=2147483647&amp;v=beta&amp;t=40E9JyPKH8FvRUQvMeCx-_BsHwXUomxw9YXDSFe6qT4" jsaction="" class="sFlh5c pT0Scc iPVvYb" style="max-width: 640px; height: 400px; margin: 0px; width: 1000px;" alt="AI Consulting Explained: A Comprehensive Guide for Businesses" jsname="kn3ccd">
+<img src="https://media.licdn.com/dms/image/D4D12AQGUoP0eC-beFQ/article-cover_image-shrink_600_2000/0/1676389239539?e=2147483647&amp;v=beta&amp;t=40E9JyPKH8FvRUQvMeCx-_BsHwXUomxw9YXDSFe6qT4" jsaction="" class="sFlh5c pT0Scc iPVvYb" style="max-width: 640px; height: 400px; margin: 0px; width: 1000px;" alt="AI Consulting Explained: A Comprehensive Guide for Businesses" jsname="kn3ccd">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gobinda-kashyp-rajput-860a52208/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gobinda-kashyp-rajput-860a52208/?originalsubdomain=in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
